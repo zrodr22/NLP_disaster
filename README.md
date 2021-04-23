@@ -16,4 +16,4 @@ Also found in packages.txt
 - pip install speechRecognition
 - pip install PyAudio
 
-
+You will need to download the word2vec model from here: https://crisisnlp.qcri.org/lrec2016/lrec2016.html
